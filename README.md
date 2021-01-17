@@ -1,7 +1,7 @@
 
 # Hi, I am Ishita 👩‍💼
 
-<img src="https://raw.githubusercontent.com/ishita-mahajan/ishita-mahajan/main/portfolio 1.gif" >
+<img src="https://raw.githubusercontent.com/ishita-mahajan/ishita-mahajan/main/portfolio1.gif" >
 
 #### I am Enthusiastic  and Passionate Cloud ☁️ Learner 😎 , Technical Writer , Youtuber :star_struck:	.
 
