@@ -33,15 +33,15 @@
 
 ## Certifications :v:
 
-#### - <a href="https://www.youracclaim.com/earner/earned/badge/afa2d14b-9587-4af0-b308-4f8b264d7922">Microsoft Certified: Azure Data Fundamentals (DP-900)</a>
 #### - <a href="https://www.youracclaim.com/badges/1ff5a732-8f41-4729-9c7c-91fc443c24e4">Microsoft Certified: Azure Administrator Associate (AZ-104) </a>
+#### - <a href="https://www.credly.com/badges/afa2d14b-9587-4af0-b308-4f8b264d7922">Microsoft Certified: Azure Data Fundamentals (DP-900)</a>
 #### - <a href="https://www.youracclaim.com/badges/e7f64d15-adea-409e-aaae-4d9ea42c3d35?source=linked_in_profile">Microsoft Certified: Azure Fundamentals </a>
 #### - <a href="https://www.youracclaim.com/badges/89e33b9c-e3f5-4028-b8b7-c83aef29ef7c/linked_in_profile">MTA: Networking Fundamentals: Certified 2020</a>
 #### - <a href="https://drive.google.com/file/d/1d9RKo8gAncljCt7fOdAhJoLX85I--P5U/view?usp=sharing">Alibaba Cloud Certified Associate-Cloud Computing </a>
 #### - <a href="https://drive.google.com/file/d/1rEFqif49SQcZKDEYMG17PErMz_SLQZNf/view?usp=sharing">Alibaba Cloud Certified Associate-Cloud Native </a>
 #### - <a href="https://drive.google.com/file/d/1v-wlzwtbcS8GdzIdWdA5h34rHe8oXvLB/view?usp=sharing">Alibaba Cloud Certified Associate: Cloud Security</a>
 #### - <a href="https://drive.google.com/file/d/1oq4ip2CBnVLBdyJKTLyGVJJJuXDPtiKS/view?usp=sharing">Aviatrix Certified Engineer </a>
-#### - <a href="https://success.simplilearn.com/316594e4-9d0a-49aa-ad07-32112a8ade4e">AWS Cloud Architect </a>
+#### - <a href="https://success.simplilearn.com/316594e4-9d0a-49aa-ad07-32112a8ade4e">AWS Cloud Architect-Simplilearn </a>
 #### - <a href="https://www.youracclaim.com/badges/167a435c-cab8-4833-bad3-369a5e36cbbd?source=linked_in_profile"> Introduction to Cybersecurity</a>
 
 
